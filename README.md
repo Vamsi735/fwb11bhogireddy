@@ -10,4 +10,10 @@ tree_type(string)
 size(string)
 age(number)
 
+[Tree](https://fwb11bhogireddy.herokuapp.com/tree)
+
+[Addmods](https://fwb11bhogireddy.herokuapp.com/addmods?rows=3&cols=4)
+
+[Selector](https://fwb11bhogireddy.herokuapp.com/selector)
+
 
