@@ -1,3 +1,13 @@
 # fwb11bhogireddy
+
 Going to take first screen shot.
-https://fwb11bhogireddy.herokuapp.com/
+
+[link](https://fwb11bhogireddy.herokuapp.com/)
+
+Class tree
+
+tree_type(string)
+size(string)
+age(number)
+
+
