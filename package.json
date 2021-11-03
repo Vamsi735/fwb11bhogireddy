@@ -16,5 +16,14 @@
   "main": "app.js",
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "Going to take first screen shot.",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vamsi735/fwb11bhogireddy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Vamsi735/fwb11bhogireddy/issues"
+  },
+  "homepage": "https://github.com/Vamsi735/fwb11bhogireddy#readme"
 }
